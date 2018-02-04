@@ -9,3 +9,5 @@ Web application that interacts with JSON services of Wikipedia API
 
 ### Screen Shot of the project
 <img width="1280" alt="1" src="https://user-images.githubusercontent.com/14169071/35774462-5cbe363c-093e-11e8-8d9d-8fd712b8b6c9.png">
+
+<img width="1280" alt="2" src="https://user-images.githubusercontent.com/14169071/35774470-9226d1a8-093e-11e8-960f-e4c6584a267d.png">
