@@ -1,6 +1,8 @@
 # Wikipedia-API
 Web application that interacts with JSON services of Wikipedia API
 
+This site was built using [GitHub Pages](https://www.google.com)
+
 ## Project Overview:
 - Implemented search of Wikipedia articles which provides suggested results on each key stroke.
   suggested results should show additional description and a picture (if available)
